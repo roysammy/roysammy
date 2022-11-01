@@ -49,14 +49,55 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-s3.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>  
 </div>
 
-<br>
+<br><br>
 
+## My Github stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roysammy123&theme=tokyonight_duo)](https://git.io/streak-stats)
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roysammy123&show_icons=true&theme=tokyonight)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysammy123&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+
+## Certifications
+
+<div id="certifications">
+  <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-tritone-tal-revivo.png"/>
+  <br>
+  <a href src="https://www.freecodecamp.org/certification/fccc92c3892-97ec-45eb-b6f1-f2633e057178/responsive-web-design">Responsive Web Design - Freecodecamp</a>
+  
+  <br><br>
+  
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <br>
+  <a href src="https://www.coursera.org/account/accomplishments/certificate/FQY9C4ZR2ZGW">Getting Started with Data Analytics on AWS - Coursera</a>
+  
+  <br><br>
+  
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
+  <br>
+  <a href src="https://drive.google.com/file/d/14l9-NoAG539YIGGhL8AeEgeYBQY65SHG/view">Intro to Programming - Kaggle</a>
+  
+</div>
+
+<br><br>
+
+
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysammy123)](https://github.com/roysammy123/github-readme-stats)
+--->
+
 <!---
 roysammy123/roysammy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
