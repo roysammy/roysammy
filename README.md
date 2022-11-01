@@ -77,13 +77,13 @@
   <br>
   <a href src="https://www.freecodecamp.org/certification/fccc92c3892-97ec-45eb-b6f1-f2633e057178/responsive-web-design">Responsive Web Design - Freecodecamp</a>
   
-  <br><br>
+  <br>
   
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <br>
   <a href src="https://www.coursera.org/account/accomplishments/certificate/FQY9C4ZR2ZGW">Getting Started with Data Analytics on AWS - Coursera</a>
   
-  <br><br>
+  <br>
   
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
   <br>
