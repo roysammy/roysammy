@@ -17,12 +17,16 @@
   <a href="https://www.kaggle.com/soumyajitroykaggle" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="mailto:roysoumyajit36@gmail.com" target="_blank">
+  <a href="mailto: roysoumyajit36@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=roysammy123&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br>
+
 
 ## About Me
 
@@ -30,12 +34,29 @@
 :zap: Interested in Data Science, ML & Infosec <br>
 :email: For any queries, please email me at roysoumyajit36@gmail.com <br>
 
+<br>
+
 ## Languages, Tools & Technologies known
 
 <div id="badges-2" align="center">
-  <img src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>C</title><path d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg>" alt="C Badge"/
+  <img src="https://img.icons8.com/color/48/FA5252/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-s3.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </div>
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysammy123)](https://github.com/roysammy123/github-readme-stats)
 <!---
 roysammy123/roysammy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
