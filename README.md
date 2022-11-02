@@ -17,9 +17,6 @@
   <a href="https://www.kaggle.com/soumyajitroykaggle" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="mailto: roysoumyajit36@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=roysammy123&style=flat-square&color=blue" alt=""/>
