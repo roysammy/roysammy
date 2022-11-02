@@ -74,7 +74,7 @@
 
 ## Badges
 
-<div id="badges-3" align="center">
+<div id="badges-3" align="left">
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
   </a>
