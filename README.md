@@ -72,6 +72,10 @@
 ## Badges
 
 <div id="badges-3" align="left">
+  <a href="https://www.cloudskillsboost.google/public_profiles/7021e6a1-de7e-4557-ad6f-3e008bad4a46" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
+  </a>
+  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
   </a>
