@@ -83,6 +83,7 @@
 
 <br><br>
 
+<!---
 ## Certifications
 
 <div id="certifications">
@@ -123,6 +124,7 @@
 
 <br><br>
 
+--->
 
 
 
