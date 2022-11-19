@@ -54,7 +54,8 @@
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height=48/>
 </div>
 
 <br><br>
