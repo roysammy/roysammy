@@ -1,10 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="200"/>
+<div id="header" align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&width=500&height=75&lines=Hi%2C+I'm+Soumyajit+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 <p><br></p>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/roysoumyajit36/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
