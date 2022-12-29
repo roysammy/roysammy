@@ -22,7 +22,7 @@
 
 :man_technologist: Undergrad - B.Tech. in Computer Science & Engineering from KIIT University | B.S. in Programming and Data Science from IIT Madras <br>
 :zap: Interested in Data Science, ML & Infosec <br>
-:email: For any queries, please get in touch with me at any of my socials <br>
+:email: For any queries, please get in touch with me at roysoumyajit36@gmail.com <br>
 
 <br>
 
