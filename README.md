@@ -13,7 +13,6 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=roysammy123&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br>
