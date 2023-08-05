@@ -64,6 +64,9 @@
 ## Badges
 
 <div id="badges-3" align="left">
+  <a href="https://www.credly.com/users/soumyajit-roy.54ee6c3a" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly Badge"/>
+    
   <a href="https://www.cloudskillsboost.google/public_profiles/7021e6a1-de7e-4557-ad6f-3e008bad4a46" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
   </a>
