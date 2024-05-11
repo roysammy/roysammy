@@ -1,4 +1,4 @@
-name: update-gh-activity
+name: update-readme-activity
 
 on:
   # run automatically every 24 hours
@@ -12,7 +12,7 @@ on:
   push:
     branches:
     - master
-    
+
 jobs:
   build:
     runs-on: ubuntu-latest
