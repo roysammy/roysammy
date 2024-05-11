@@ -29,7 +29,7 @@
 ## About Me
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- :man_technologist: Undergrad - B.Tech. in Computer Science & Engineering from KIIT University | B.S. in Programming and Data Science from IIT Madras <br>
+- :man_technologist: Final year Undergrad - B.Tech. in Computer Science & Engineering from KIIT University <br>
 - :zap: Interested in Data Science, ML & Infosec <br><br>
 
 <br>
