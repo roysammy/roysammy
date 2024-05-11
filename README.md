@@ -1,6 +1,14 @@
-<div id="header" align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&width=560&height=80&lines=Hi%2C+I'm+Soumyajit+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" style="margin-right: 50px;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="360">
+  <br>
 </div>
+
+
+  
+<h1 style="display:inline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="40" height="40"/>  Hello World, I'm Soumyajit!</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 <p><br></p>
 
