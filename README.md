@@ -29,9 +29,8 @@
 - :man_technologist: Final year Undergrad - B.Tech. in Computer Science & Engineering from KIIT University <br>
 - :zap: Interested in Data Science, ML & Infosec <br><br>
 
-<br>
 
-## Languages, Tools & Technologies known
+## Things I code with
 
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
