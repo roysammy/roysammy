@@ -20,10 +20,7 @@
 <div id="badges" align="left">
   <p><a href="https://www.linkedin.com/in/roysoumyajit36/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/in/sroydev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/17985833/soumyajit-roy" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" height=25></a> <a href="mailto:roysoumyajit36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
   <br>
-  <br>
 </div>
-
-<br>
 
 
 ## About Me
