@@ -23,7 +23,7 @@
 </div>
 
 
-## About Me
+## ✨&nbsp; About Me
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - :man_technologist: Final year Undergrad - B.Tech. in Computer Science & Engineering from KIIT University <br>
