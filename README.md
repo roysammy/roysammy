@@ -59,7 +59,7 @@
 </picture>
 <br>
 
-###:zap: My activity:
+### :zap: My activity
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
