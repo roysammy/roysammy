@@ -12,7 +12,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 <br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=800&color=29F7A9&random=false&width=600&height=100&lines=Hi%20+I+am+Soumyajit+Roy!+👋" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=800&color=29F7A9&random=false&width=600&height=100&lines=Hi,%20+I+am+Soumyajit+Roy!+👋" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 <br><br>
 </div>
