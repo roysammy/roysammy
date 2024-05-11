@@ -12,20 +12,13 @@
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 <br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=1000&color=29F7A9&random=false&width=600&height=100&lines=Hi%2C+I+am+Soumyajit+Roy!+👋" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=800&color=29F7A9&random=false&width=600&height=100&lines=Hi%2C+I+am+Soumyajit+Roy!+👋" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-<br>
+<br><br>
 </div>
 
-<p><br></p>
-
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/roysoumyajit36/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/in/sroydev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <p><a href="https://www.linkedin.com/in/roysoumyajit36/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/in/sroydev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/17985833/soumyajit-roy" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" height=25></a> <a href="mailto:roysoumyajit36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
   <br>
   <br>
 </div>
