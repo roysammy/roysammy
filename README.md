@@ -59,6 +59,10 @@
 </picture>
 <br>
 
+###:zap: My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
 ## My Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=roysammy123&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
