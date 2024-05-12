@@ -34,7 +34,7 @@
 - :zap: Interested in Data Science, ML & Infosec <br><br>
 
 
-## Things I code with
+## :computer: Things I code with
 
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -168,9 +168,9 @@ C++                      1 repo              █░░░░░░░░░░�
 </div>
 <br><br>
 
-## Github Trophies
+## :trophy: My Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roysammy123)](https://github.com/ryoysammy123/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roysammy123&margin-w=15)](https://github.com/ryoysammy123/github-profile-trophy)
 
 <!--
 
