@@ -9,12 +9,14 @@
 </div>
 -->
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20%F0%9F%91%8B%20I%20am%20Soumyajit%20Roy!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2&fontSize=40&animation=fadeIn)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20%F0%9F%91%8B%20I%20am%20Soumyajit%20Roy!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2&fontSize=40&animation=twinkling)
   
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="855">
-<br><br>
+  <h3>Currently contributing to open source projects in <a href="https://gssoc.girlscript.tech"><b>GirlScript Summer of Code 2024!</b></a></h3>
+  <!--
   <a href="https://www.linkedin.com/in/roysoumyajit36/"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=1000&color=08B94D&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I+am+Soumyajit+Roy!" alt="Typing SVG" /></a>
+  -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="855">
 <br><br>
 </div>
