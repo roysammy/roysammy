@@ -172,6 +172,8 @@ C++                      1 repo              █░░░░░░░░░░�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roysammy123&margin-w=15&no-bg=true)](https://github.com/ryoysammy123/github-profile-trophy)
 
+<br>
+
 ### Show some :heart: by starring :star2: some of my repositories below :point_down:
 
 <!--
