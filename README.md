@@ -168,6 +168,10 @@ C++                      1 repo              █░░░░░░░░░░�
 </div>
 <br><br>
 
+## Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=roysammy123)](https://github.com/ryoysammy123/github-profile-trophy)
+
 <!--
 
 ## My Github stats
