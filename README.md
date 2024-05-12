@@ -132,8 +132,9 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
-
  Last Updated on 12/05/2024 09:55:26 UTC
+
+ <p>NOTE: My competence level or anything like is not indicated by my top languages. It is merely a measure of the languages that I have hosted on GitHub according to how frequently they are used across repositories.</p>
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
