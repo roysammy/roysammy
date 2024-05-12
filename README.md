@@ -58,6 +58,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roysammy123/roysammy123/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
+<br>
 
 ## :zap: My activity
 
@@ -68,6 +69,7 @@
 4. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2105716335) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
 5. ❗ Opened issue [#12](https://github.com/SrijanShovit/HealthLearning/issues/12) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
 <!--END_SECTION:activity-->
+<br>
 
 ## My Github stats
 
