@@ -79,6 +79,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.5%20thousand%20lines%20of%20code-blue)
 
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 **I'm a Night 🦉** 
