@@ -60,7 +60,7 @@
 <br>
 <br>
 
-## :zap: My activity
+## :zap: My recent activities
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2105920845) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
@@ -77,6 +77,9 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-333-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.5%20thousand%20lines%20of%20code-blue)
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 **I'm a Night 🦉** 
 
