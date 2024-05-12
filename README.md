@@ -62,6 +62,12 @@
 ## :zap: My activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2105920845) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+2. 💪 Opened PR [#39](https://github.com/ayush-that/FinVeda/pull/39) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+3. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2105737427) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+4. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2105716335) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+5. ❗ Opened issue [#12](https://github.com/SrijanShovit/HealthLearning/issues/12) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+<!--END_SECTION:activity-->
 
 ## My Github stats
 
