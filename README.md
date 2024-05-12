@@ -72,53 +72,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-333-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-515-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.5%20thousand%20lines%20of%20code-blue)
-
-<!--STARTS_HERE_QUOTE_README-->
-<br>
-<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-<br><br>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"></p>
-<br><br>
-
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-🌃 Evening                137 commits         ██████████░░░░░░░░░░░░░░░   39.14 % 
-🌙 Night                  122 commits         █████████░░░░░░░░░░░░░░░░   34.86 % 
-```
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Sunday                   136 commits         ██████████░░░░░░░░░░░░░░░   38.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Jupyter Notebook** 
 
@@ -132,9 +88,8 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2024 09:55:26 UTC
 
- <p>NOTE: My competence level or anything like is not indicated by my top languages. It is merely a measure of the languages that I have hosted on GitHub according to how frequently they are used across repositories.</p>
+ Last Updated on 12/05/2024 18:34:30 UTC
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
