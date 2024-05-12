@@ -79,8 +79,13 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.5%20thousand%20lines%20of%20code-blue)
 
 <!--STARTS_HERE_QUOTE_README-->
+<br>
 <i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+<br><br>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"></p>
+<br><br>
+
 
 **I'm a Night 🦉** 
 
@@ -90,7 +95,7 @@
 🌃 Evening                137 commits         ██████████░░░░░░░░░░░░░░░   39.14 % 
 🌙 Night                  122 commits         █████████░░░░░░░░░░░░░░░░   34.86 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sundays** 
 
 ```text
 Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
