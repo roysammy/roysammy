@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-2. 💪 Opened PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-3. 🎉 Merged PR [#1](https://github.com/roysammy123/Data-Structures-Algorithms/pull/1) in [roysammy123/Data-Structures-Algorithms](https://github.com/roysammy123/Data-Structures-Algorithms)
-4. 💪 Opened PR [#1](https://github.com/Ishtaj/Rock-paper-scissors-game/pull/1) in [Ishtaj/Rock-paper-scissors-game](https://github.com/Ishtaj/Rock-paper-scissors-game)
-5. 🗣 Commented on [#526](https://github.com/Niketkumardheeryan/ML-CaPsule/issues/526#issuecomment-2106356206) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+1. 💪 Opened PR [#58](https://github.com/subhadeeproy3902/BloxAI/pull/58) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+2. ❌ Closed PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+3. 💪 Opened PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+4. 🎉 Merged PR [#1](https://github.com/roysammy123/Data-Structures-Algorithms/pull/1) in [roysammy123/Data-Structures-Algorithms](https://github.com/roysammy123/Data-Structures-Algorithms)
+5. 💪 Opened PR [#1](https://github.com/Ishtaj/Rock-paper-scissors-game/pull/1) in [Ishtaj/Rock-paper-scissors-game](https://github.com/Ishtaj/Rock-paper-scissors-game)
 <!--END_SECTION:activity-->
 <br>
 
