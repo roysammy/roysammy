@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#526](https://github.com/Niketkumardheeryan/ML-CaPsule/issues/526#issuecomment-2106356206) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
-2. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2106338439) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-3. 🔒 Closed issue [#21](https://github.com/ayush-that/FinVeda/issues/21) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-4. 🗣 Commented on [#19](https://github.com/subhadeeproy3902/BloxAI/issues/19#issuecomment-2106338303) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-5. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2105920845) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+1. 💪 Opened PR [#1](https://github.com/Ishtaj/Rock-paper-scissors-game/pull/1) in [Ishtaj/Rock-paper-scissors-game](https://github.com/Ishtaj/Rock-paper-scissors-game)
+2. 🗣 Commented on [#526](https://github.com/Niketkumardheeryan/ML-CaPsule/issues/526#issuecomment-2106356206) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+3. 🗣 Commented on [#21](https://github.com/ayush-that/FinVeda/issues/21#issuecomment-2106338439) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+4. 🔒 Closed issue [#21](https://github.com/ayush-that/FinVeda/issues/21) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+5. 🗣 Commented on [#19](https://github.com/subhadeeproy3902/BloxAI/issues/19#issuecomment-2106338303) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
 <!--END_SECTION:activity-->
 <br>
 
