@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
-2. 🗣 Commented on [#58](https://github.com/subhadeeproy3902/BloxAI/pull/58#issuecomment-2109304023) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-3. 💪 Opened PR [#58](https://github.com/subhadeeproy3902/BloxAI/pull/58) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-4. ❌ Closed PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-5. 💪 Opened PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+1. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2110509439) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+2. 💪 Opened PR [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+3. 🗣 Commented on [#58](https://github.com/subhadeeproy3902/BloxAI/pull/58#issuecomment-2109304023) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+4. 💪 Opened PR [#58](https://github.com/subhadeeproy3902/BloxAI/pull/58) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+5. ❌ Closed PR [#53](https://github.com/subhadeeproy3902/BloxAI/pull/53) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
 <!--END_SECTION:activity-->
 <br>
 
