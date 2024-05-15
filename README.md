@@ -80,6 +80,9 @@
 </div>
 <br><br>
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2049%20mins-blue)
 
