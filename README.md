@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2112685669) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
-2. 💪 Opened PR [#80](https://github.com/subhadeeproy3902/BloxAI/pull/80) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-3. 🗣 Commented on [#19](https://github.com/subhadeeproy3902/BloxAI/issues/19#issuecomment-2110563688) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-4. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2110509439) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
-5. 💪 Opened PR [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+1. 🗣 Commented on [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588#issuecomment-2113155724) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+2. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2112685669) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+3. 💪 Opened PR [#80](https://github.com/subhadeeproy3902/BloxAI/pull/80) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+4. 🗣 Commented on [#19](https://github.com/subhadeeproy3902/BloxAI/issues/19#issuecomment-2110563688) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+5. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2110509439) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
 <!--END_SECTION:activity-->
 <br>
 
