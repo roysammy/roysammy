@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588#issuecomment-2113155724) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
-2. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2112685669) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
-3. 💪 Opened PR [#80](https://github.com/subhadeeproy3902/BloxAI/pull/80) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-4. 🗣 Commented on [#19](https://github.com/subhadeeproy3902/BloxAI/issues/19#issuecomment-2110563688) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-5. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2110509439) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+1. ❗ Opened issue [#52](https://github.com/The-Xiting-Way/DevXClub/issues/52) in [The-Xiting-Way/DevXClub](https://github.com/The-Xiting-Way/DevXClub)
+2. ❗ Opened issue [#62](https://github.com/Tanay-ErrorCode/lupo-skill/issues/62) in [Tanay-ErrorCode/lupo-skill](https://github.com/Tanay-ErrorCode/lupo-skill)
+3. ❗ Opened issue [#116](https://github.com/algovengers/Hairify/issues/116) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
+4. ❗ Opened issue [#33](https://github.com/Abidsyed25/ScrapQuest/issues/33) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+5. 🗣 Commented on [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588#issuecomment-2113155724) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
 <!--END_SECTION:activity-->
 <br>
 
