@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/algovengers/Hairify/issues/116#issuecomment-2118636508) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
-2. ❗ Opened issue [#52](https://github.com/The-Xiting-Way/DevXClub/issues/52) in [The-Xiting-Way/DevXClub](https://github.com/The-Xiting-Way/DevXClub)
-3. ❗ Opened issue [#62](https://github.com/Tanay-ErrorCode/lupo-skill/issues/62) in [Tanay-ErrorCode/lupo-skill](https://github.com/Tanay-ErrorCode/lupo-skill)
-4. ❗ Opened issue [#116](https://github.com/algovengers/Hairify/issues/116) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
-5. ❗ Opened issue [#33](https://github.com/Abidsyed25/ScrapQuest/issues/33) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+1. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2119114515) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
+2. 🗣 Commented on [#116](https://github.com/algovengers/Hairify/issues/116#issuecomment-2118636508) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
+3. ❗ Opened issue [#52](https://github.com/The-Xiting-Way/DevXClub/issues/52) in [The-Xiting-Way/DevXClub](https://github.com/The-Xiting-Way/DevXClub)
+4. ❗ Opened issue [#62](https://github.com/Tanay-ErrorCode/lupo-skill/issues/62) in [Tanay-ErrorCode/lupo-skill](https://github.com/Tanay-ErrorCode/lupo-skill)
+5. ❗ Opened issue [#116](https://github.com/algovengers/Hairify/issues/116) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
 <!--END_SECTION:activity-->
 <br>
 
