@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2119136988) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
-2. 💪 Opened PR [#108](https://github.com/SrijanShovit/HealthLearning/pull/108) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
-3. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2119114515) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
-4. 🗣 Commented on [#116](https://github.com/algovengers/Hairify/issues/116#issuecomment-2118636508) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
-5. ❗ Opened issue [#52](https://github.com/The-Xiting-Way/DevXClub/issues/52) in [The-Xiting-Way/DevXClub](https://github.com/The-Xiting-Way/DevXClub)
+1. 🗣 Commented on [#108](https://github.com/SrijanShovit/HealthLearning/pull/108#issuecomment-2120544021) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+2. 🗣 Commented on [#15](https://github.com/SrijanShovit/HealthLearning/issues/15#issuecomment-2119136988) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+3. 💪 Opened PR [#108](https://github.com/SrijanShovit/HealthLearning/pull/108) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+4. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2119114515) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
+5. 🗣 Commented on [#116](https://github.com/algovengers/Hairify/issues/116#issuecomment-2118636508) in [algovengers/Hairify](https://github.com/algovengers/Hairify)
 <!--END_SECTION:activity-->
 <br>
 
