@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#814](https://github.com/Rakesh9100/CalcDiverse/pull/814) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#649](https://github.com/Rakesh9100/CalcDiverse/issues/649#issuecomment-2128641129) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#33](https://github.com/Abidsyed25/ScrapQuest/issues/33#issuecomment-2120959930) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
-4. 🗣 Commented on [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588#issuecomment-2120775503) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
-5. 🗣 Commented on [#108](https://github.com/SrijanShovit/HealthLearning/pull/108#issuecomment-2120544021) in [SrijanShovit/HealthLearning](https://github.com/SrijanShovit/HealthLearning)
+1. ❗ Opened issue [#50](https://github.com/Abidsyed25/ScrapQuest/issues/50) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+2. 💪 Opened PR [#814](https://github.com/Rakesh9100/CalcDiverse/pull/814) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#649](https://github.com/Rakesh9100/CalcDiverse/issues/649#issuecomment-2128641129) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#33](https://github.com/Abidsyed25/ScrapQuest/issues/33#issuecomment-2120959930) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+5. 🗣 Commented on [#588](https://github.com/Niketkumardheeryan/ML-CaPsule/pull/588#issuecomment-2120775503) in [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
 <!--END_SECTION:activity-->
 <br>
 
