@@ -67,11 +67,11 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2133605387) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
-2. 🗣 Commented on [#3079](https://github.com/kunjgit/GameZone/issues/3079#issuecomment-2133604122) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
-3. 🗣 Commented on [#51](https://github.com/Abidsyed25/ScrapQuest/pull/51#issuecomment-2133601927) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
-4. 💪 Opened PR [#51](https://github.com/Abidsyed25/ScrapQuest/pull/51) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
-5. ❗ Opened issue [#50](https://github.com/Abidsyed25/ScrapQuest/issues/50) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+1. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2139857442) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
+2. 🗣 Commented on [#39](https://github.com/ayush-that/FinVeda/pull/39#issuecomment-2139805526) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+3. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2133605387) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
+4. 🗣 Commented on [#3079](https://github.com/kunjgit/GameZone/issues/3079#issuecomment-2133604122) in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)
+5. 🗣 Commented on [#51](https://github.com/Abidsyed25/ScrapQuest/pull/51#issuecomment-2133601927) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
 <!--END_SECTION:activity-->
 <br>
 
