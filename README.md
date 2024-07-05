@@ -121,16 +121,18 @@ Sunday                   207 commits         ██████████░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ██████████████░░░░░░░░░░░   57.19 % 
+INI                      0 secs              ███████████░░░░░░░░░░░░░░   42.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Intel Unnati             0 secs              ██████████████░░░░░░░░░░░   57.19 % 
+Unknown Project          0 secs              ███████████░░░░░░░░░░░░░░   42.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -146,7 +148,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2024 18:37:11 UTC
+ Last Updated on 05/07/2024 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
