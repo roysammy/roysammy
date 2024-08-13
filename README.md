@@ -67,8 +67,8 @@
 ## :zap: My recent activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Application Launch](https://github.com/roysammy123/Campus-Parking-Management-System/releases/tag/v1.0.0) in [roysammy123/Campus-Parking-Management-System](https://github.com/roysammy123/Campus-Parking-Management-System)
-2. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2184984984) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
+1. 💪 Opened PR [#1458](https://github.com/GSSoC24/Postman-Challenge/pull/1458) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+2. 🚀 Published release [Application Launch](https://github.com/roysammy123/Campus-Parking-Management-System/releases/tag/v1.0.0) in [roysammy123/Campus-Parking-Management-System](https://github.com/roysammy123/Campus-Parking-Management-System)
 3. 🗣 Commented on [#50](https://github.com/Abidsyed25/ScrapQuest/issues/50#issuecomment-2143903847) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
 4. 🗣 Commented on [#51](https://github.com/Abidsyed25/ScrapQuest/pull/51#issuecomment-2143902963) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
 5. 🗣 Commented on [#16](https://github.com/samarthhapse/sarthi/issues/16#issuecomment-2139857442) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
