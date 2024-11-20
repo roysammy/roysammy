@@ -121,19 +121,16 @@ Sunday                   212 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               24 mins             ███████████████████████░░   90.36 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   24 mins             ███████████████████████░░   90.36 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-plant-disease-detector   24 mins             ███████████████████████░░   90.36 % 
-plant-disease-prediction-2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -149,7 +146,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2024 18:44:41 UTC
+ Last Updated on 20/11/2024 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
