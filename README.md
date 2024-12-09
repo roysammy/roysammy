@@ -88,7 +88,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,16 +121,21 @@ Sunday                   212 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     33 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+TypeScript               23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GoldMining               1 hr 6 mins         ████████████████░░░░░░░░░   64.45 % 
+Documents                36 mins             █████████░░░░░░░░░░░░░░░░   35.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -146,7 +151,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2024 18:42:42 UTC
+ Last Updated on 09/12/2024 18:46:34 UTC
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
