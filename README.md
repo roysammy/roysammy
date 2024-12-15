@@ -82,7 +82,7 @@
 
 <h3>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </h3>
 <br>
