@@ -88,7 +88,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,16 +121,20 @@ Sunday                   212 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 15 mins        █████████████████████░░░░   82.30 % 
+Text                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+plant-disease-detector-fi1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -146,7 +150,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2025 18:43:33 UTC
+ Last Updated on 11/03/2025 18:45:32 UTC
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
