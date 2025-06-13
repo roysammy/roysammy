@@ -121,18 +121,16 @@ Sunday                   212 commits         █████████░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C#                       2 hrs 8 mins        ████████████████████████░   95.91 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Documents                2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -148,7 +146,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 18:47:22 UTC
+ Last Updated on 13/06/2025 18:47:13 UTC
 <!--END_SECTION:waka-->
 
 <!--Parrots-->
