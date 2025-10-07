@@ -1,10 +1,10 @@
 💫 Hi, I'm Soumyajit. I am currently working as a Data Scientist at <a href="https://www.pinelabs.com/">Pine Labs</a>, one of the largest fintech companies in Asia.<br>I love to read interesting stuff on the latest developments in machine learning, particulary NLP and post-training of LLMs.<br>
 
 ### Publications
-- "Unveiling Natural Based Underwater Image Colour Enhancement: a Paradigm Shift in Underwater Image Processing and Colour Enhancement," <i>2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT),</i> Kamand, India, 2024, pp. 1-7, doi: <a href="10.1109/ICCCNT61001.2024.10725348">10.1109/ICCCNT61001.2024.10725348</a>.
+- "Unveiling Natural Based Underwater Image Colour Enhancement: a Paradigm Shift in Underwater Image Processing and Colour Enhancement," <i>2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT),</i> Kamand, India, 2024, pp. 1-7, doi: <a href="[10.1109/ICCCNT61001.2024.10725348](https://ieeexplore.ieee.org/document/10725348)" target="_blank">10.1109/ICCCNT61001.2024.10725348</a>.
 
 ### Blog
-- <a href="https://medium.com/@roysoumyajit/coming-up-with-a-solution-for-vehicle-movement-analysis-and-insight-generation-in-a-college-campus-b76aa7e84de0">Coming up with a solution for Vehicle Movement Analysis and Insight Generation in a College Campus &#8599;</a><br>
+- <a href="https://medium.com/@roysoumyajit/coming-up-with-a-solution-for-vehicle-movement-analysis-and-insight-generation-in-a-college-campus-b76aa7e84de0" target="_blank">Coming up with a solution for Vehicle Movement Analysis and Insight Generation in a College Campus &#8599;</a><br>
     Parking on college campuses is often difficult due to limited spaces and high vehicle volume, causing frustration for students, staff, and visitors. The lack of an efficient monitoring system leads to poor space utilization and congestion. This aims to address this by developing a smart parking system that accurately tracks each vehicle’s spot, enables real-time monitoring, and generates actionable insights from parking data.
 
 ### I usually work with the following stuff 👇
