@@ -3,7 +3,7 @@ I am currently working as a **Data Scientist at [Pine Labs ↗](https://www.pine
 I love reading about the latest developments in **Machine Learning**, particularly **NLP** and **post-training of LLMs**.
 
 ### Publications
-- *Unveiling Natural Based Underwater Image Colour Enhancement: a Paradigm Shift in Underwater Image Processing and Colour Enhancement,*  **2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)**, Kamand, India, 2024, pp. 1-7. DOI: [10.1109/ICCCNT61001.2024.10725348 ↗](https://ieeexplore.ieee.org/document/10725348)
+- **Unveiling Natural Based Underwater Image Colour Enhancement: a Paradigm Shift in Underwater Image Processing and Colour Enhancement,**  *2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)*, Kamand, India, 2024, pp. 1-7. DOI: [10.1109/ICCCNT61001.2024.10725348 ↗](https://ieeexplore.ieee.org/document/10725348)
 
 ### Blog
 - [Coming up with a solution for Vehicle Movement Analysis and Insight Generation in a College Campus ↗](https://medium.com/@roysoumyajit/coming-up-with-a-solution-for-vehicle-movement-analysis-and-insight-generation-in-a-college-campus-b76aa7e84de0)  
