@@ -1,6 +1,7 @@
 **Hi, I'm Soumyajit.**  
 I am currently working as a **Data Scientist at [Pine Labs ↗](https://www.pinelabs.com/)**, one of the largest fintech companies in Asia.  
 I love reading about the latest developments in **Machine Learning**, particularly **NLP** and **post-training of LLMs**.
+I have published some work on **computer vision**, which you can find below
 
 ### Publications
 - **Unveiling Natural Based Underwater Image Colour Enhancement: a Paradigm Shift in Underwater Image Processing and Colour Enhancement,**  *2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)*, Kamand, India, 2024, pp. 1-7. DOI: [10.1109/ICCCNT61001.2024.10725348 ↗](https://ieeexplore.ieee.org/document/10725348)
