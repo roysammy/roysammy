@@ -1,6 +1,6 @@
 **Hi, I'm Soumyajit.**  
 I am currently working as a **Data Scientist at [Pine Labs ↗](https://www.pinelabs.com/)**, one of the largest fintech companies in Asia.  
-I love reading about the latest developments in **Machine Learning**, particularly **NLP** and **post-training of LLMs**.
+I love reading about the latest developments in **Machine Learning**, particularly **NLP** and **post-training of LLMs**.  
 I have published some work on **computer vision**, which you can find below
 
 ### Publications
