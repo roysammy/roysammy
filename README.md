@@ -1,7 +1,7 @@
 **Hi, I'm Soumyajit.**  
 I am currently working as a **Data Scientist at [Pine Labs ↗](https://www.pinelabs.com/)**, one of the largest fintech companies in Asia.  
 I love reading about the latest developments in **Machine Learning**, particularly **NLP** and **post-training of LLMs**.  
-I have published some work on **computer vision**, which you can find below.
+I have published some work on **Natural Language Processing** and **Computer Vision**, which you can find below.
 
 ### Publications
 - Soumyajit Roy. (2025). **CodeAnubad at BLP-2025 Task 2: Efficient Bangla-to-Python Code Generation via Iterative LoRA Fine-Tuning of Gemma-2**. In *Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)* (pp. 556–560). Mumbai, India: Association for Computational Linguistics. [Read paper ↗](https://aclanthology.org/2025.banglalp-1.53/)
