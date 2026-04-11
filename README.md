@@ -4,7 +4,7 @@ I love reading about the latest developments in **Machine Learning**, particular
 I have published some work on **Natural Language Processing** and **Computer Vision**, which you can find below.
 
 ### Publications
-- Soumyajit Roy. (2025). **CodeAnubad at BLP-2025 Task 2: Efficient Bangla-to-Python Code Generation via Iterative LoRA Fine-Tuning of Gemma-2**. In *Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)* (pp. 556–560). Mumbai, India: Association for Computational Linguistics. [Read paper ↗](https://aclanthology.org/2025.banglalp-1.53/)
+- Soumyajit Roy. (2025). **CodeAnubad at BLP-2025 Task 2: Efficient Bangla-to-Python Code Generation via Iterative LoRA Fine-Tuning of Gemma-2**. In *Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)* (pp. 556–560). Mumbai, India: Association for Computational Linguistics. DOI: [10.18653/v1/2025.banglalp-1.53 ↗](https://aclanthology.org/2025.banglalp-1.53/)
 - **Unveiling Natural Based Underwater Image Colour Enhancement: a Paradigm Shift in Underwater Image Processing and Colour Enhancement,**  *2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)*, Kamand, India, 2024, pp. 1-7. DOI: [10.1109/ICCCNT61001.2024.10725348 ↗](https://ieeexplore.ieee.org/document/10725348)
 - **PlantDiseaseNet-RT50: A Fine-tuned ResNet50 Architecture for High-Accuracy Plant Disease Detection Beyond Standard CNNs,**  *2025 IEEE International Conference on Advances in Computing Research On Science Engineering and Technology (ACROSET)*, INDORE, India, 2025, pp. 1-6. DOI: [10.1109/ACROSET66531.2025.11281259 ↗](https://ieeexplore.ieee.org/document/11281259)
 
