@@ -1,7 +1,7 @@
 **Hi, I'm Soumyajit.**  
 I am currently working as a **Data Scientist at [Pine Labs ↗](https://www.pinelabs.com/)**, one of the largest fintech companies in Asia.  
 I love reading about the latest developments in **Machine Learning**, particularly **NLP** and **post-training of LLMs**.  
-I have published some work on **Natural Language Processing** and **Computer Vision**, which you can find below.
+I have published some work on **Natural Language Processing**, **LLMs** and **Computer Vision**, which you can find below.
 
 ### Publications
 - **ModusPonens at SemEval-2026 Task 11: Breaking the Plausibility Trap in LLMs via Conflict-Aware Ensembling**. In *Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)* (pp. 65–71). San Diego, California, USA: Association for Computational Linguistics. DOI: [10.18653/v1/2026.semeval-1.10 ↗](https://aclanthology.org/2026.semeval-1.10/)
